@@ -1,0 +1,55 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.navbar{
+    background:#FFFDF8 !important;
+    padding:12px 0;
+}
+
+.logo-text{
+    font-size:1.4rem;
+    font-weight:700;
+    color:#474747;
+}
+
+.nav-link{
+    color:#474747 !important;
+    font-weight:600;
+    margin:0 5px;
+    transition:0.3s;
+}
+
+.nav-link:hover{
+    color:#7EA8BE !important;
+}
+
+.start-btn{
+    background:#A8C3B0;
+    color:white;
+    padding:10px 20px;
+    border-radius:30px;
+    font-weight:600;
+}
+
+.start-btn:hover{
+    background:#8fb09b;
+    color:white;
+}
+
+/* Mobile Menu */
+@media (max-width:991px){
+
+    .navbar-nav{
+        padding-top:15px;
+    }
+
+    .nav-item{
+        margin:5px 0;
+    }
+
+    .start-btn{
+        width:100%;
+        margin-top:10px;
+    }
+}
