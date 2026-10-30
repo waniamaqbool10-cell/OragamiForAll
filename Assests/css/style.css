@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    background-color: #fcf6f0; /* Off-white / light cream background */
+    background-color: #fcf6f0;
     color: #333333;
 
 }
@@ -176,7 +176,7 @@ h1,h2,h3,h4,h5,h6{
   width: 100%;
   max-width: 500px;
   height: 380px;
-  background-color: #f3e6d8; /* Light warm brown placeholder */
+  background-color: #f3e6d8;
   display: flex;
   align-items: flex-end;
   padding: 20px;
